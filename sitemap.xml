@@ -2,13 +2,18 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://lookii.github.io/guestbook/index.html</loc>
-    <lastmod>2015-08-25T09:15:16.216Z</lastmod>
+    <loc>http://lookii.github.io/tags/index.html</loc>
+    <lastmod>2015-08-25T09:28:02.874Z</lastmod>
   </url>
   
   <url>
     <loc>http://lookii.github.io/about/index.html</loc>
-    <lastmod>2015-08-25T09:13:24.209Z</lastmod>
+    <lastmod>2015-08-25T09:27:49.723Z</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://lookii.github.io/guestbook/index.html</loc>
+    <lastmod>2015-08-25T09:15:16.216Z</lastmod>
   </url>
   
   <url>
